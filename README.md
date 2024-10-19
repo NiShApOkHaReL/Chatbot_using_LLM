@@ -5,8 +5,6 @@
 - Handle **appointment booking** by extracting date information from text.
 - Handle **callback requests** by collecting user details.
 
-🔍 Additionally, the project integrates **Natural Language Processing (NLP)** functionalities for text-based document analysis and user interaction using libraries like **LangChain** and **Hugging Face Embeddings**.
-
 ---
 
 💡 **Features:**
@@ -38,7 +36,7 @@
 2. **Clone the repository:**
    ```bash
    git clone https://github.com/NiShApOkHaReL/Chatbot_using_LLM.git
-   cd document-chatbot
+   cd project_chatbot
 
 3. **Install dependencies:**
    ```bash
