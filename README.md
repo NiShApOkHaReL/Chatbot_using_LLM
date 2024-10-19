@@ -37,5 +37,21 @@
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/document-chatbot.git
+   git clone https://github.com/NiShApOkHaReL/Chatbot_using_LLM.git
    cd document-chatbot
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.tx
+  
+
+4. **Set up your environment variables: Create a .env file in the project directory with your Hugging Face API key:**
+
+   ```bash
+      HUGGINGFACEHUB_API_TOKEN=your-huggingface-api-token
+5. **Run the Streamlit app:**
+   ```bash   
+      streamlit run app.py
+
+
+
