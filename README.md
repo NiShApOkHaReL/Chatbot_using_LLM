@@ -51,7 +51,7 @@
       HUGGINGFACEHUB_API_TOKEN=your-huggingface-api-token
 5. **Run the Streamlit app:**
    ```bash   
-      streamlit run app.py
+      streamlit run pp.py
 
 
 
